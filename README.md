@@ -8,7 +8,7 @@ Probably working on capstone right now.
 
 ## Projects
 
-* [FSAE](https://kartikeyab1.github.io/projects/##macfe)
+* [FSAE](https://kartikeyab1.github.io/projects/#macfe)
 * [Self-heating reflow PCB business card with NFC](https://kartikeyab1.github.io/projects/#card)
 * [EE Capstone](https://kartikeyab1.github.io/projects/#capstone)
 
