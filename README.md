@@ -2,7 +2,7 @@ I'm an Electrical Engineering student at McMaster University in my final year.
 
 Check out my portfolio: [kartikeyab1.github.io](https://kartikeyab1.github.io/)
 
-Previously: Electrical Director at MAC Formula Electric, Electronics Intern at Enedym, Harbinger Motors (power electronics), McMaster Automotive Resource Centre (research).
+Previously: Electrical Director @ MAC Formula Electric, Electronics Intern @ Enedym, Power Electronics @ Harbinger Motors, and Research Intern @ McMaster Automotive Resource Centre.
 
 Probably working on capstone right now.
 
